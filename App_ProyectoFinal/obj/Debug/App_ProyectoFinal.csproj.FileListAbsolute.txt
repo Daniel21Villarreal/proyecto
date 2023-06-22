@@ -1,0 +1,15 @@
+C:\Users\villa\source\repos\App_ProyectoFinal\App_ProyectoFinal\bin\Debug\App_ProyectoFinal.exe.config
+C:\Users\villa\source\repos\App_ProyectoFinal\App_ProyectoFinal\bin\Debug\App_ProyectoFinal.exe
+C:\Users\villa\source\repos\App_ProyectoFinal\App_ProyectoFinal\bin\Debug\App_ProyectoFinal.pdb
+C:\Users\villa\source\repos\App_ProyectoFinal\App_ProyectoFinal\obj\Debug\App_ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\villa\source\repos\App_ProyectoFinal\App_ProyectoFinal\obj\Debug\App_ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\villa\source\repos\App_ProyectoFinal\App_ProyectoFinal\obj\Debug\App_ProyectoFinal.exe
+C:\Users\villa\source\repos\App_ProyectoFinal\App_ProyectoFinal\obj\Debug\App_ProyectoFinal.pdb
+C:\Users\af339\Desktop\App_ProyectoFinal\App_ProyectoFinal\obj\Debug\App_ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\af339\Desktop\App_ProyectoFinal\App_ProyectoFinal\obj\Debug\App_ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\af339\Desktop\App_ProyectoFinal\App_ProyectoFinal\obj\Debug\App_ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\af339\Desktop\App_ProyectoFinal\App_ProyectoFinal\obj\Debug\App_ProyectoFinal.exe
+C:\Users\af339\Desktop\App_ProyectoFinal\App_ProyectoFinal\obj\Debug\App_ProyectoFinal.pdb
+C:\Users\af339\Desktop\App_ProyectoFinal\App_ProyectoFinal\bin\Debug\App_ProyectoFinal.exe.config
+C:\Users\af339\Desktop\App_ProyectoFinal\App_ProyectoFinal\bin\Debug\App_ProyectoFinal.exe
+C:\Users\af339\Desktop\App_ProyectoFinal\App_ProyectoFinal\bin\Debug\App_ProyectoFinal.pdb
